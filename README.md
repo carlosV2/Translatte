@@ -2,6 +2,10 @@
 
 This package aims to provide an interpretation layer to data.
 
+[![License](https://poser.pugx.org/carlosv2/translatte/license)](https://packagist.org/packages/carlosv2/translatte)
+[![Build Status](https://travis-ci.org/carlosV2/Translatte.svg?branch=master)](https://travis-ci.org/carlosV2/Translatte)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/7ba5a77c-35e3-45db-a081-029918e3944c/mini.png)](https://insight.sensiolabs.com/projects/7ba5a77c-35e3-45db-a081-029918e3944c)
+
 ## Usage
 
 There is no limit as per when or for what to use it. The only requisite
