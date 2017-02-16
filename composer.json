@@ -1,0 +1,34 @@
+{
+    "name": "carlosv2/translatte",
+    "type": "library",
+    "description": "Data translation library based on pattern matching",
+    "keywords": ["Translation", "Data", "Pattern matching", "Pattern"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Carlos Ortega",
+            "email": "carlosV2.0@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "carlosV2\\Translatte\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "tests\\carlosV2\\Translatte\\": "tests/"
+        }
+    },
+    "require": {
+        "php": ">=5.3,<7.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.8"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
